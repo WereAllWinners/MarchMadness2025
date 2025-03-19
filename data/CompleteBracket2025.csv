@@ -1,0 +1,64 @@
+region,home_seed,home_team,away_seed,away_team
+south,1,Auburn,16,Alabama St.
+south,8,Louisville,9,Creighton
+south,5,Michigan,12,UC San Diego
+south,4,Texas A&M,13,Yale
+south,6,Ole Miss,11,North Carolina
+south,3,Iowa St.,14,Lipscomb
+south,7,Marquette,10,New Mexico
+south,2,Michigan St.,15,Bryant
+west,1,Florida,16,Norfolk St.
+west,8,Uconn,9,Oklahoma
+west,5,Memphis,12,Colorado St.
+west,4,Maryland,13,Grand Canyon
+west,6,Missouri,11,Drake
+west,3,Texas Tech,14,UNCW
+west,7,Kansas,10,Arkansas
+west,2,St. John's,15,Omaha
+east,1,Duke,16,American/Mt. St. Marys
+east,8,Mississippi St.,9,Baylor
+east,5,Oregon,12,Liberty
+east,4,Arizona,13,Akron
+east,6,BYU,11,VCU
+east,3,Wisconsin,14,Montana
+east,7,Saint Mary's,10,Vanderbilt
+east,2,Alabama,15,Robert Morris
+midwest,1,Houston,16,SIU Edwardsville
+midwest,8,Gonzaga,9,Georgia
+midwest,5,Clemson,12,McNeese
+midwest,4,Purdue,13,High Point
+midwest,6,Illinois,11,Texas/Xavier
+midwest,3,Kentucky,14,Troy
+midwest,7,UCLA,10,Utah St.
+midwest,2,Tennessee,15,Wofford
+south,,Winner south Round of 32 Game 1,,Winner south Round of 32 Game 2
+south,,Winner south Round of 32 Game 3,,Winner south Round of 32 Game 4
+south,,Winner south Round of 32 Game 5,,Winner south Round of 32 Game 6
+south,,Winner south Round of 32 Game 7,,Winner south Round of 32 Game 8
+west,,Winner west Round of 32 Game 1,,Winner west Round of 32 Game 2
+west,,Winner west Round of 32 Game 3,,Winner west Round of 32 Game 4
+west,,Winner west Round of 32 Game 5,,Winner west Round of 32 Game 6
+west,,Winner west Round of 32 Game 7,,Winner west Round of 32 Game 8
+east,,Winner east Round of 32 Game 1,,Winner east Round of 32 Game 2
+east,,Winner east Round of 32 Game 3,,Winner east Round of 32 Game 4
+east,,Winner east Round of 32 Game 5,,Winner east Round of 32 Game 6
+east,,Winner east Round of 32 Game 7,,Winner east Round of 32 Game 8
+midwest,,Winner midwest Round of 32 Game 1,,Winner midwest Round of 32 Game 2
+midwest,,Winner midwest Round of 32 Game 3,,Winner midwest Round of 32 Game 4
+midwest,,Winner midwest Round of 32 Game 5,,Winner midwest Round of 32 Game 6
+midwest,,Winner midwest Round of 32 Game 7,,Winner midwest Round of 32 Game 8
+south,,Winner south Sweet 16 Game 1,,Winner south Sweet 16 Game 2
+south,,Winner south Sweet 16 Game 3,,Winner south Sweet 16 Game 4
+west,,Winner west Sweet 16 Game 1,,Winner west Sweet 16 Game 2
+west,,Winner west Sweet 16 Game 3,,Winner west Sweet 16 Game 4
+east,,Winner east Sweet 16 Game 1,,Winner east Sweet 16 Game 2
+east,,Winner east Sweet 16 Game 3,,Winner east Sweet 16 Game 4
+midwest,,Winner midwest Sweet 16 Game 1,,Winner midwest Sweet 16 Game 2
+midwest,,Winner midwest Sweet 16 Game 3,,Winner midwest Sweet 16 Game 4
+south,,Winner south Elite 8 Game 1,,Winner south Elite 8 Game 2
+west,,Winner west Elite 8 Game 1,,Winner west Elite 8 Game 2
+east,,Winner east Elite 8 Game 1,,Winner east Elite 8 Game 2
+midwest,,Winner midwest Elite 8 Game 1,,Winner midwest Elite 8 Game 2
+Final Four,,Winner East,,Winner South
+Final Four,,Winner West,,Winner Midwest
+Championship,,Winner Final Four Game 1,,Winner Final Four Game 2
